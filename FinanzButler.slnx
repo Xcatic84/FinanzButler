@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="FinanzButler.Application/FinanzButler.Application..csproj" />
+  <Project Path="FinanzButler.Infrastructure/FinanzButler.Infrastructure.csproj" />
   <Project Path="src/FinanzButler.Core/FinanzButler.Core.csproj" />
 </Solution>
