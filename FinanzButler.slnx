@@ -2,4 +2,5 @@
   <Project Path="FinanzButler.Application/FinanzButler.Application..csproj" />
   <Project Path="FinanzButler.Infrastructure/FinanzButler.Infrastructure.csproj" />
   <Project Path="src/FinanzButler.Core/FinanzButler.Core.csproj" />
+  <Project Path="src/FinanzButler.WinForms/FinanzButler.WinForms.csproj" Id="50e41446-10b7-406a-a439-bb92ba7ffb15" />
 </Solution>
